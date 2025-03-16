@@ -1,0 +1,231 @@
+* {
+    text-align: center;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+header {
+    background: #3C4A5F;
+    padding: 20px;
+    border-radius: 0 0 70px 70px;
+
+}
+section {
+    margin-top: 100px;
+    box-shadow: 5px 5px 25px rgb(179, 172, 172);
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    padding: 20px;
+}
+
+
+h1 {
+
+width: 25%;
+margin-left: auto;
+margin-right: auto;
+border-radius: 10px;
+color: #fff;
+padding: 12px;
+background: #3C4A5F;
+}
+
+
+
+
+
+
+.ul {
+margin-top: 2px;
+display: flex;
+justify-content: space-around;
+margin-top: 85px;
+
+}
+
+
+.right , .left {
+    margin-top: 60px;
+    width: 49%;
+}
+
+.div {
+
+    display: flex;
+    margin: auto;
+    width: 80%;
+}
+
+footer {
+
+    margin-top: 240px;
+}
+
+li {
+
+
+
+    list-style-type: none;
+
+
+}
+
+ul li a:hover {
+    color: red;
+    border-bottom:2px solid red;
+    font-size: 20px;
+}
+
+ul li a {
+text-decoration: none;
+color: #eee;
+font-size: 18px;
+display: inline-block;
+margin-top: 6px;
+}
+
+.mode {
+    color: #eee;
+    border: solid white 2px;
+    border-radius: 6px 6px 6px 6px;
+    padding: 5px 10px;
+    
+}
+
+
+.my-img {
+    border-top: solid royalblue 5px;
+    border-bottom: solid royalblue 5px;
+    border-left: solid gold 5px;
+    border-right: solid gold 5px;
+
+border-radius: 50%;
+
+}
+
+article a {
+border-radius: 12px;
+margin-bottom: 10px;
+display: inline-block;
+padding: 10px;
+margin-top: 50px;
+margin-left: 3em ;
+margin-right: 3em ;
+
+
+}
+
+a {
+
+text-decoration: none;
+
+}
+
+.Youtube {
+background: red;
+    color: white;
+
+}
+
+
+
+
+
+
+article p {
+
+
+margin-top: 25px;
+}
+
+section h5 {
+        font-family: "Just Another Hand", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 40px;
+      
+      
+
+}
+
+
+
+article h3 {
+
+    font-size: 26px;
+
+}
+
+article p {
+
+font-size: 20px;
+
+}
+
+
+
+
+.left {
+    margin: 20px 0;
+}
+
+
+.des {
+    background: #3C4A5F;
+    text-align: center;
+    border-radius: 6px 6px 0 0;
+    padding: 15px;
+opacity: 0.8;
+
+
+}
+
+.specialty {
+
+padding: 20px;
+line-height: 30px;
+font-weight: 700;
+font-size: larger;
+
+}
+
+
+
+#dev {
+background: #EEE;
+    color: black;
+    padding: 15px;
+
+    border-top-left-radius: 6px red;
+
+}
+
+
+.fac {
+    background-color: royalblue;
+    color: white;   
+    border-radius: 7px;
+    padding: 6px;
+
+}
+
+.Facebook {
+
+    color: white;
+    background: royalblue;
+    
+}
+
+
+.
+
+
+footer p .fac:hover {
+
+background-color: blue;
+padding: 6px 12px;
+
+
+}
